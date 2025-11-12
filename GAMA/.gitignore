@@ -1,0 +1,5 @@
+.cache
+.metadata
+*Model/
+!CityTransport/
+CityTransport/results/

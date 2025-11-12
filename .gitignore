@@ -1,0 +1,7 @@
+exports/
+samples/
+experiments*/
+*.geojson
+.DS_Store
+results/
+.env
