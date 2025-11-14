@@ -86,3 +86,17 @@ poetry run python server.py --config ./config/config_gpt-oss-120b_19.yaml
 ```
 
 - Go back to GAMA and hit the play button to start the simulation.
+
+## Reference
+
+```
+@misc{vu2025modelingrealistichumanbehavior,
+      title={Modeling realistic human behavior using generative agents in a multimodal transport system: Software architecture and Application to Toulouse}, 
+      author={Trung-Dung Vu and Benoit Gaudou and Kamaldeep Singh Oberoi},
+      year={2025},
+      eprint={2510.19497},
+      archivePrefix={arXiv},
+      primaryClass={cs.MA},
+      url={https://arxiv.org/abs/2510.19497}, 
+}
+```
